@@ -18,4 +18,6 @@ TL;DR: At the TechLady Hackathon, I wanted to share the blogs in my data viz fol
 
 * [Tableau](http://www.tableausoftware.com/) - Free data visualization software, I saw a demo at a [data visualization and journalism talk](http://blog.visual.ly/data-visualization-and-journalism/) and was intrigued.
 * [Udacity - Intro to Data Science](https://www.udacity.com/course/ud359) - This MOOC (online course) starts in January, and is available as a free and paid version.  Haven't taken this, but I've enjoyed the Udacity classes I've taken.
-* [Skillshare - Animated Information Graphics](http://www.skillshare.com/classes/design/Animated-Information-Graphics-using-data-and-motion-to-reveal-the-story/1100008111?via=profile) - Tutorial recommended by the [chartsnthings NYT graphic design guy](http://chartsnthings.tumblr.com/).
+* [Skillshare - Animated Information Graphics](http://www.skillshare.com/classes/design/Animated-Information-Graphics-using-data-and-motion-to-reveal-the-story/1100008111?via=profile) - Tutorial recommended by the [chartsnthings NYT guy](http://chartsnthings.tumblr.com/).
+* [Community Commons](http://www.communitycommons.org/) - Map visualization resources, data sets, and community
+* [CartoDB](https://cartodb.com/) - Map visualization software
